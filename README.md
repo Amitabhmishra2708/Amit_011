@@ -1,7 +1,9 @@
 
 
-# bfs
-this is the searching algorithm in python 
+# AI PROGRAMS
+
+these are the searching algorithms in python 
+#bfs
 def bfs(graph, start_node):
    
     visited = set()
