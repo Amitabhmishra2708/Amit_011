@@ -35,3 +35,7 @@ graph = {
 
 
 bfs(graph, 'A')
+#dfs
+
+
+
